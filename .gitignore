@@ -1,1 +1,6 @@
 .cph/
+__pycache__/
+*.pyc
+venv/
+.env/
+bank.db
